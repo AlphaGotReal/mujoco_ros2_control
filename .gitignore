@@ -1,7 +1,1 @@
-build/*
-install/*
-log/*
-
-mujoco_ros2_control/mujoco/*
-
 **/__pycache__/
